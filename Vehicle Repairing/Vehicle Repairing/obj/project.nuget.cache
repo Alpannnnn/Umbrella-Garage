@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wdy03BZs5Ao=",
+  "dgSpecHash": "RQseVZo3auM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Vehicle Repairing.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\LAPTOP MSI\\Source\\Repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Vehicle Repairing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAPTOP MSI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.10\\microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512"
+  ],
   "logs": []
 }

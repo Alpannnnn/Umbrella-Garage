@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\ff.s0c137y\\source\\repos\\vehicle repairing\\vehicle repairing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\ff.s0c137y\\source\\repos\\vehicle repairing\\vehicle repairing\\forms\\admin menus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\forms\\admin menus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Program.cs",
+              "RelativeDocumentMoniker": "Vehicle Repairing\\Program.cs",
+              "ToolTip": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Program.cs*",
+              "RelativeToolTip": "Vehicle Repairing\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:50:50.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Forms\\Admin Menus\\MainForm.cs",
               "RelativeDocumentMoniker": "Vehicle Repairing\\Forms\\Admin Menus\\MainForm.cs",
@@ -50,12 +67,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Forms\\HomeForm.cs",
               "RelativeDocumentMoniker": "Vehicle Repairing\\Forms\\HomeForm.cs",
-              "ToolTip": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Forms\\HomeForm.cs [Design]*",
-              "RelativeToolTip": "Vehicle Repairing\\Forms\\HomeForm.cs [Design]*",
+              "ToolTip": "C:\\Users\\ff.s0c137y\\source\\repos\\Vehicle Repairing\\Vehicle Repairing\\Forms\\HomeForm.cs [Design]",
+              "RelativeToolTip": "Vehicle Repairing\\Forms\\HomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T12:57:00.172Z",
               "EditorCaption": " [Design]"
