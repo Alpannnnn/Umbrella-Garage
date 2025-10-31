@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\models\\damaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\models\\damaged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\vehicle repairing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\vehicle repairing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\assets\\main bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\assets\\main bg.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\vehicle repairing\\forms\\admin menus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\forms\\admin menus\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\vehicle repairing\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\forms\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\vehicle repairing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\vehicle repairing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|c:\\users\\laptop msi\\source\\repos\\umbrella-garage\\vehicle repairing\\vehicle repairing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6896976-9752-49E0-83F8-AB76FF5398F1}|Vehicle Repairing\\Vehicle Repairing.csproj|solutionrelative:vehicle repairing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,60 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Vehicle Repairing\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T09:10:50.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Models\\Payment.cs",
-              "RelativeToolTip": "Vehicle Repairing\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T09:09:39.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Damaged.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Models\\Damaged.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Models\\Damaged.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Models\\Damaged.cs",
-              "RelativeToolTip": "Vehicle Repairing\\Models\\Damaged.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T09:09:06.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Models\\Client.cs",
-              "RelativeToolTip": "Vehicle Repairing\\Models\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T09:08:45.746Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -117,82 +24,8 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Vehicle Repairing",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\Source\\Repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Vehicle Repairing.csproj",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Vehicle Repairing.csproj",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\Source\\Repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Vehicle Repairing.csproj",
-              "RelativeToolTip": "Vehicle Repairing\\Vehicle Repairing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T09:04:02.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "main bg.jpg - Bitmap [612x408, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Assets\\main bg.jpg",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Assets\\main bg.jpg",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Assets\\main bg.jpg - Bitmap [612x408, 24 bit, JPG]",
-              "RelativeToolTip": "Vehicle Repairing\\Assets\\main bg.jpg - Bitmap [612x408, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-31T09:05:22.068Z",
-              "EditorCaption": " - Bitmap [612x408, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Vehicle Repairing",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\Source\\Repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Vehicle Repairing.csproj",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Vehicle Repairing.csproj",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\Source\\Repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Vehicle Repairing.csproj",
-              "RelativeToolTip": "Vehicle Repairing\\Vehicle Repairing.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-31T09:03:06.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Program.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Program.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Program.cs",
-              "RelativeToolTip": "Vehicle Repairing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T18:50:50.693Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Forms\\Admin Menus\\MainForm.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Forms\\Admin Menus\\MainForm.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Forms\\Admin Menus\\MainForm.cs [Design]",
-              "RelativeToolTip": "Vehicle Repairing\\Forms\\Admin Menus\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T18:24:14.016Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Forms\\HomeForm.cs",
-              "RelativeDocumentMoniker": "Vehicle Repairing\\Forms\\HomeForm.cs",
-              "ToolTip": "C:\\Users\\LAPTOP MSI\\source\\repos\\Umbrella-Garage\\Vehicle Repairing\\Vehicle Repairing\\Forms\\HomeForm.cs [Design]",
-              "RelativeToolTip": "Vehicle Repairing\\Forms\\HomeForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:57:00.172Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
